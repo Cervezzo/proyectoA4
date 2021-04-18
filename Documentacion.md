@@ -1,3 +1,9 @@
+# proyectoA4
+
+#Repositorio del proyecto de temática Ibera para BBDD en DAW
+
+Incorporación de Antonio Castillo al repositorio como colaborador.
+
 ## Esquema Conceptual
 
 
@@ -8,7 +14,11 @@
 
 ## Paso a tablas
 
-[Paso_Tablas_Iberos.pdf](https://github.com/Cervezzo/proyectoA4/files/6331645/Paso_Tablas_Iberos.pdf)
+[Paso_Tablas_Iberos.pdf](https://github.com/Cervezzo/proyectoA4/files/6331674/Paso_Tablas_Iberos.pdf)
+
+![imagen](https://user-images.githubusercontent.com/38425474/115152300-da0d0600-a070-11eb-8d4f-2e23ad0d1dbf.png)
 
 
 ## Normalización
+
+
