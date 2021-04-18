@@ -14,7 +14,7 @@ Incorporación de Antonio Castillo al repositorio como colaborador.
 
 ## Paso a tablas
 
-[Paso_Tablas_Iberos.pdf](https://github.com/Cervezzo/proyectoA4/files/6331645/Paso_Tablas_Iberos.pdf)
+[Paso_Tablas_Iberos.pdf](https://github.com/Cervezzo/proyectoA4/files/6331666/Paso_Tablas_Iberos.pdf)
 
 
 ## Normalización
